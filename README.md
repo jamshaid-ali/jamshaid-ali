@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jamshaid Ali
 - 👀 I am intrested in Web Dev work. I love HTML, CSS, JS, JQuery, React, Vue, PHP, Wordpress, Laravel
-- 🌱 I am expert of Front end dev. Now I want to improve Back end dev. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I am expert of Front end dev. Now I want to improve Back end dev.
 - 📫 How to reach me ...
 
 <!---
